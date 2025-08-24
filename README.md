@@ -6,7 +6,7 @@ This project represents a fictional taco shop website.
 ---
 
 ## 📂 Project Structure
-.
+```.
 ├── index.html # Homepage (About + Menu)
 ├── hours.html # Store Hours page
 ├── contact.html # Contact page
@@ -14,6 +14,7 @@ This project represents a fictional taco shop website.
 │ └── style.css # Stylesheet
 ├── img/ # Project images
 └── favicon.ico # Site favicon
+```
 
 
 ---
